@@ -16,3 +16,4 @@ function compileAngularJS(selector, callBackFn){
 }
 
 // solution: http://stackoverflow.com/questions/11771513/angularjs-jquery-how-to-get-dynamic-content-working-in-angularjs
+// https://docs.angularjs.org/guide/compiler
